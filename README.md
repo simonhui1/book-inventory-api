@@ -1,1 +1,1 @@
-# book-inventory-api
+# Book Inventory CRUD Application 
