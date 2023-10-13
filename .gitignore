@@ -1,0 +1,21 @@
+# Compiled bytecode
+*.class
+
+# Set of artifact files produced by the compiler
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment-specific application properties
+application*.yml
+application*.properties
